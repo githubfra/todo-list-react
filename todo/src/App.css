@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  background-color:  pink;
+ }
+
+input {
+  padding: 4px;
+  margin-right: 10px;
+  padding-left: 200px;
+ 
+}
+
+ul {
+  list-style: none;
+  font-size: 30px;
+}
+
+li {
+  margin: 12px 0;
+}
+
+button.btn-info {
+  margin-left: 20%;
+}
+
+
