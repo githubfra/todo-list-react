@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
 
   const [newItem, setNewItem] = useState("");
-  const [items, setItems] = useState(["tarea"]);
+  const [items, setItems] = useState([]);
 
 
  function addItem() {
